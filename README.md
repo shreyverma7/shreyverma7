@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shreyverma7
-- 👀 I’m interested in ...python 
+- 👀 I’m interested in ...python , c ,java , bootstrap, php. 
 - 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ...python projects
+- 💞️ I’m looking to collaborate on ...python , javafx projects
 - 📫 How to reach me ...insta: shrey007_
 
 <!---
