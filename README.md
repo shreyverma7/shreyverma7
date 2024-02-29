@@ -75,4 +75,4 @@
 
 </div>
 
- [snake animation](https://github.com/<seu shreyverma7>/<seu shreyverma7>/blob/output/github-contribution-grid-snake2.svg) 
+![snake animation](https://github.com/shreyverma7/shreyverma7/blob/output/github-contribution-grid-snake2.svg)
