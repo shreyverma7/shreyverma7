@@ -3,10 +3,22 @@
 
 
 ## 🌐 Socials:
+
 <div align="center">
   
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shreyverma4) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shrey.shrey.7374) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shrey_se7en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyverma7) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22514499) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shrey007verma) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/shrey007verma) 
-
+<p >
+<a href="https://codepen.io/shrey007verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shrey007verma" height="30" width="40" /></a>
+<a href="https://twitter.com/shrey007verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shrey007verma" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22514499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22514499" height="30" width="40" /></a>
+<a href="https://kaggle.com/shrey007verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shrey007verma" height="30" width="40" /></a>
+<a href="https://fb.com/shrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shrey" height="30" width="40" /></a>
+<a href="https://instagram.com/shrey_se7en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shrey_se7en" height="30" width="40" /></a>
+<a href="https://www.behance.net/shreyverma4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shreyverma4" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shrey007verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shrey007verma" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shrey007verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrey007verma" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/shrey007verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shrey007verma" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shrey007verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shrey007verma" height="30" width="40" /></a>
+</p>
 </div>
 
 # 💻 Tech Stack:
