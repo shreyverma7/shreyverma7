@@ -74,3 +74,5 @@
 [![](https://visitcount.itsvg.in/api?id=shreyverma7&icon=2&color=0)](https://visitcount.itsvg.in)
 
 </div>
+
+ [snake animation](https://github.com/<seu shreyverma7>/<seu shreyverma7>/blob/output/github-contribution-grid-snake2.svg) 
