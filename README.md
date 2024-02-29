@@ -1,5 +1,9 @@
 <img src="https://github.com/shreyverma7/shreyverma7/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.gif" width="100%">
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="350" >
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on ASP.net web Api + Angular<br><br>🌱 I’m currently learning React + MongoDb + NodeJS + ExpressJS<br><br>👯 I’m looking to collaborate on MERN Projects<br><br>🤝 I’m looking for help with MERN<br><br>👨‍💻 All of my projects are available at https://github.com/shreyverma7<br><br>💬 Ask me about Asp.net, Angualar & Technologies<br><br>📫 How to reach me shrey007verma@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1eCtkd7A-PEl3CAi9EP1wYLiwZ_dJgKLy/view?usp=sharing<br><br>⚡ Fun fact Tell me and I forget, teach me and I may remember, involve me and I learn.
 
