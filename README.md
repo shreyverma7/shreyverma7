@@ -71,11 +71,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=shreyverma7&limit=5&theme=darkhub&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shreyverma7&icon=2&color=11)](https://visitcount.itsvg.in)
+
 
 </div>
 
-
+[![](https://visitcount.itsvg.in/api?id=shreyverma7&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
