@@ -11,7 +11,7 @@
   <div>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="430" align="right" >
 </div>
-🔭 I’m currently working on ASP.net web Api + Angular<br><br>🌱 I’m currently learning React + MongoDb + NodeJS + ExpressJS<br><br>👯 I’m looking to collaborate on MERN Projects<br><br>🤝 I’m looking for help with MERN<br><br>👨‍💻 All of my projects are available at https://github.com/shreyverma7<br><br>💬 Ask me about Asp.net, Angualar & Technologies<br><br>📫 How to reach me shrey007verma@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/18DXzcLWr1TUSJVYmAEvaHWbcYdu-Lhis/view?usp=sharing <br><br>⚡ Fun fact Tell me and I forget, teach me and I may remember, involve me and I learn.
+🔭 I’m currently working on Angular<br><br>🌱 I’m currently learning React + MongoDb + NodeJS + ExpressJS<br><br>👯 I’m looking to collaborate on MERN Projects<br><br>🤝 I’m looking for help with MERN<br><br>👨‍💻 All of my projects are available at https://github.com/shreyverma7<br><br>💬 Ask me about Web development, Angualar & Technologies<br><br>📫 How to reach me shrey007verma@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/18DXzcLWr1TUSJVYmAEvaHWbcYdu-Lhis/view?usp=sharing <br><br>⚡ Fun fact Tell me and I forget, teach me and I may remember, involve me and I learn.
 </div>
 
  <br>
